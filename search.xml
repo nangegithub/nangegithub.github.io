@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>我的第一篇文章</title>
+      <title>随笔</title>
       <link href="posts/62824/"/>
       <url>posts/62824/</url>
       
@@ -29,13 +29,25 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="posts/16107/"/>
-      <url>posts/16107/</url>
+      <title>我的学习历程</title>
+      <link href="posts/3f51972f/"/>
+      <url>posts/3f51972f/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>大学，给了我一个增长见识的地方。如果没有进入大学，可能我也不会接触到编程，也不会知道自己该干些什么。这里我就想总结一下我在大学里的学路历程。将来也可以自己看看。给其他人看看。<br>大一入学，我不知道该怎么过？很迷茫。感觉学好自己本专业的东西就好了。所以后来就全心全意的在学校课程上，后来期末考试，我也不慌张，考了个不错的成绩，但是我所处的学校又怎么能行呢？如果是在重点大学知名专业中考个好成绩很有必要。但是在其它的情况下也就算啦。因为我是软件工程专业的，所以大一刚开始就接触到，一些编程语言，一些IT技术……，但是学校教的又怎么能够用呢？当然这也是我在开学几个月我才认识到，感觉有点晚。后来我就自己学习我的第一门语言——C语言。这是大一下学期才学的，但是大一上学期每次上一门课—计算机导论的时候都会听老师提起，但是我就问旁边的同学：“知不知道，”只看见他们摇摇头，当时我也就想自己下去琢磨，于是，买了一本C程序设计（认识了谭浩强（这本书的编者）），自己也记起了笔记。就这样上学期后边几个月我都在弄这个C语言。学校里的课程也一起跟着，当时虽然有很多门课，但是大家都知道有些课程，我们称之为水课。利用这些水课，我就在弄c语言，当时老师看见我没在听他讲课，就当堂点我，这位同学站起来回答问题，后续就……大一上学期感觉除了学了点C语言之外，还有学校一些自己感觉比较重要的课程，比如高数，计算机导论之外，就没有别的了。<br>到了大一下学期，就利用一些政治课，历史课（这些在我看来就是水课）来接着学习我的C，当然这学期也开了这门课，但是C语言在我开学后两个多月的时间，我差不多也算是入门了。算一下学习C语言的时间，差不多七个月左右。后来我就知道了学校里教的东西知识冰山一角，九牛一毛，沧海一粟……后来我从老师口中知道ACM这东西，但是一看题目我傻了，后来看题目就答案更蒙了。原来还有一门课程叫做数据结构与算法，当然这在C语言中提到过，但是没有系统学。后来又是自己买了本书数据结构（认识了严蔚敏（这本书的编者）），当然这门课也是下学期才开，哈哈！感觉我都是在学着下学期的知识，但是这门课程入门确实不易，虽然有着C的基础，但是……经过问其他人，和其他人一起学，搞懂了一些，但是自己看书效率实在是不高，想找视频，真的是一搜就来，跟着慕课上浙江大学发布的视频来看，链表，栈，队列，树……到后边一些常用算法—迪杰斯特拉，弗洛伊德，字符串匹配，排序查找……学了好久，后来到大二上学期开这门课是也学了几个月，当然学校教它的，我学自己的，感觉学校教的根本就没有多深。算一算学数据结构与算法学的时间和C语言时间差不多吧！当然学校里的东西也跟着学，期末也考了个不错的成绩吧!<br>到了大二上学期我又接触了一门面向对象语言java。当然c++也是，但是我花时间还是在java上。也不知道为啥子？有了之前C的基础，再加上数据结构，我花了这个学期把我的java基础搞定了。当然这学期也就结束了。<br>到了大二下学期，遇到疫情，太好了，学校里那些无聊的课总算是不用听了。赶紧抓时间学其他，但是我不知从何学起，但是感觉自己没什么学的，现在的我就想对当时的我笑笑。后来我在B站上认识了杜老师，从此打开了我的学习之旅。跟着他我学习了mysql，html，css，javascript。我对杜老师也表示感谢，跟着他一路走了过去，还专门认识了他（河南人，原名杜聚宾，是个编程高手，在百度任过职—-这是我记得的一部分，当然你教的知识也会铭记于心），学完之后自己也做了几个小项目吧。后来他在视频上还说要学，jquery……就这样，我b站一搜，我又认识了李南江老师，一句so easy too happy，我跟着他啊，又把视频看完了，还做了一本笔记，当然跟着杜老师时，就已经做了四本笔记了，继续学习，继续探索，让我认识了尚硅谷（一个良心企业，多家名师，编程高手聚集地），可以说我爱上了它，看到他所列的学习路线，没办法只有学。后来b站搜索servlet，又是老杜，我旧情复燃，立马点进去，跟着学了起来，有结束了我的servlet以及jsp。学了这些我感觉可以学习ssm了，但是b站一搜，视频一点，一看就蒙了，为什么要这样弄文件夹，唉，原来是我不知道maven，后来又跟着尚硅谷学了，具体哪个老师的视频记不清了。学完maven之后，立马搞起ssm，就这样我有多了一位老师—雷丰阳（人称“雷神”），跟着他学完了ssm，就这样我有多了一本笔记本。学完之后又做了一个关于ssm的项目，之后我该干什么，一看路线，springboot，唉还是老样子，B站一搜，视频一点，我有认识了以为老师秦疆（“狂神”），跟着他不仅学了springboot，还有git，还有docker，当然这是后边的事了，但是我也还记得他经常说的，只要学不死，就往死里学。我不就是这样，开个玩笑，哈哈！还有他的座右铭————-即使再小的帆，也能远航。我不仅从他那学到知识，学到技术，还有一些人生理念，一些思维方式。后来啊，就有跟着做了一些项目（包括搭建了我自己的博客）。做了项目之后我了解了java设计模式，后来又是B站一搜，视频一点，我认识了韩顺平老师（清华毕业，哈哈），跟着他学习了java设计模式，linux操作系统，还有跟着他学习了java版的数据结构（让我知道了老黄牛的精神，还有就是一句话—-“我亦无他，唯手熟尔”）。接着我就转战到了更高级的部分，跟着尚硅谷的周阳老师学习mysql高级，原来我学到的mysql知识初级部分（哈哈），后来还跟着他学习了redis，当然也知道了他的教学三板斧（理论，实践，小总结），后来发现自己好多技术不会，还学要弥补，一个个攻破，就又跟着尚硅谷的一个老师学习了nginx，dubbo和zookeeper ，但是学习dubbo和zookeeper的时候，好像说这个分布式系统两个方案，dubbo和zookeeper或是springcloud ，一听是spring有关的，于是放了放，先跟周阳老师（“阳哥”）学了springcloud，也从阳哥教学中知道了学习一门技术的四问——是什么？能干什么？去哪下？怎么玩？真好！到现在我就学习到这里，前后总共花了七个月的时间吧，平均每天六个小时或更多，这也得感谢疫情，让我不用花太多的时间去管学校里的东西。当然后来开学考试哪一个多月，我也就只能专心在学校的课程上了。 就这样我到了大三，一切还是那么的……但是我还是得继续学下去。<br>未来可期，加油吧！</p>]]></content>
       
       
+      <categories>
+          
+          <category> 个人博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
